@@ -1,0 +1,10 @@
+names:
+- Dust
+- Bird-Drop
+- Physical-Damage
+- Electrical-Damage
+nc: 4
+path: C:\Users\Lenovo\AIML Projects\Project-5\SolarGuard\data\yolo_dataset
+test: images/test
+train: images/train
+val: images/val
