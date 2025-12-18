@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ML / CV
+data/
+models/
+*.h5
+*.keras
+
+# OS
+.DS_Store
